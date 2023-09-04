@@ -1,8 +1,8 @@
 [
     {
         "Name": "chromium_third_party_re2",                   # 上游开源软件名全称
-        "License": "Lucent Technologiese","Khronos Group License"         # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE" ,"Lucent Technologiese","Khronos Group License","GPL-2.0+-with-LLVM-exception" ,"Lucent Technologies"    # 许可证所在文件路径
+        "License": "GPL-2.0+-with-LLVM-exception" ,"Lucent Technologies"         # 上游开源软件中包含的许可证信息
+        "License File": "LICENSE"   # 许可证所在文件路径
         "Version Number": "8b2815e4f36f9e22c119d8128e86ac19cc26e478",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/re2.git@8b2815e4f36f9e22c119d8128e86ac19cc26e478",   # 上游软件包发布地址
         "Description": "第三方软件re2"           # 开源软件功能描述
