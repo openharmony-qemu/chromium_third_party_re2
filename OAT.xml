@@ -77,9 +77,6 @@ used to filter file path.
             <filefilter name="binaryFileTypePolicyFilter" desc="Check to see if it is a binary file">
                 <filteritem type="filepath" name="doc/xkcd.png" desc="chromium原生二进制文件,不会使用" />
             </filefilter>
-
-
-
         </filefilterlist>
         <licensematcherlist>
              <licensematcher name="X11-Style (Lucent-variant)" desc="">
