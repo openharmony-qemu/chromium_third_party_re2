@@ -1,18 +1,11 @@
 [
     {
-        "Name": "re2",                   # 上游开源软件名全称
-        "License": "GPL-2.0+-with-LLVM-exception"       # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE"   # 许可证所在文件路径
+        "Name": "re2",
+        "License": "BSD-3-Clause",
+        "License File": "LICENSE",
         "Version Number": "8b2815e4f36f9e22c119d8128e86ac19cc26e478",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/re2.git@8b2815e4f36f9e22c119d8128e86ac19cc26e478",   # 上游软件包发布地址
-        "Description": "第三方软件re2"           # 开源软件功能描述
-    },
-    {
-        "Name": "re2",                   # 上游开源软件名全称
-        "License": "X11-Style (Lucent-variant)"       # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE"   # 许可证所在文件路径
-        "Version Number": "8b2815e4f36f9e22c119d8128e86ac19cc26e478",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/re2.git@8b2815e4f36f9e22c119d8128e86ac19cc26e478",   # 上游软件包发布地址
-        "Description": "第三方软件re2"           # 开源软件功能描述
+        "Owner": "huangjiewen2@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/re2.git@8b2815e4f36f9e22c119d8128e86ac19cc26e478",
+        "Description": "第三方软件re2，一个快速、安全和线程友好的 C++正则表达式引擎"
     }
 ]
