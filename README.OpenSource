@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "re2",
+        "License": "BSD-3-Clause",
+        "License File": "LICENSE",
+        "Version Number": "6dcd83d60f7944926bfd308cc13979fc53dd69ca",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/re2.git@6dcd83d60f7944926bfd308cc13979fc53dd69ca",
+        "Description": "第三方软件re2，一个快速、安全和线程友好的 C++正则表达式引擎"
+    }
+]
